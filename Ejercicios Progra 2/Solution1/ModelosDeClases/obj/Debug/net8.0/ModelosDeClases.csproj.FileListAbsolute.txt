@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\bin\Debug\net8.0\ModelosDeClases.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\bin\Debug\net8.0\ModelosDeClases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\bin\Debug\net8.0\ModelosDeClases.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\refint\ModelosDeClases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ModelosDeClases.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Practicas con wep Api\PROGRA II\Ejercicios Progra 2\Solution1\ModelosDeClases\obj\Debug\net8.0\ref\ModelosDeClases.dll
